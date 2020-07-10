@@ -1,2 +1,2 @@
 # Jrebel-Lic-ReverseProxyTool
-Jrebel is a efficient tool for reload Code Changes Instantly, this is tool is a reverse proxy tool for get licence offline.
+Jrebel is an efficient tool for reloading Code Changes Instantly, this is tool is a reverse proxy tool for getting license offline.
